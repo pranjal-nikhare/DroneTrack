@@ -1,0 +1,44 @@
+
+Looking for Students in class.jpg
+- Found nandana at (1449, 617)
+- Found arjuna at (1959, 1096)
+- Found sanat at (295, 295)
+- Found praddy at (1026, 776)
+
+Looking for Students in day12.jpg
+- Found sanat at (1062, 350)
+- Found vinay_chuu at (716, 511)
+- Found praddy at (111, 379)
+
+Looking for Students in harsh2.jpg
+- Found harsh at (613, 638)
+- Found harsh at (65, 1978)
+- Found unknown at (191, 687)
+- Found harsh at (65, 306)
+
+Looking for Students in day11.jpg
+- Found unknown at (563, 218)
+- Found gyan at (760, 221)
+- Found unknown at (953, 326)
+
+Looking for Students in day5.jpg
+- Found sanat at (312, 134)
+- Found nandana at (959, 242)
+- Found praddy at (675, 304)
+
+Looking for Students in day4.jpg
+- Found praddy at (718, 418)
+
+Looking for Students in day3.jpg
+- Found sanat at (384, 277)
+- Found praddy at (959, 142)
+
+Looking for Students in day2.jpg
+- Found sanat at (375, 376)
+- Found archit at (835, 217)
+
+Looking for Students in harsh.jpg
+- Found harsh at (65, 1978)
+- Found harsh at (557, 868)
+- Found harsh at (85, 326)
+- Found praddy at (342, 832)
